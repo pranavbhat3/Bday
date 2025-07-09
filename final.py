@@ -239,7 +239,7 @@ class FriendsMessagesTab(QWidget):
         
         # Set script directory dynamically
         self.script_dir = os.path.dirname(os.path.abspath(__file__))
-        background_image = r"c:\Users\DHI\Desktop\OWLB\beach.jpg"
+        background_image = r"c:\Users\DHI\Desktop\OWLB\b.jpg"
         
         # Set background image using QLabel for better control
         self.background_label = QLabel(self)
